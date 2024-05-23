@@ -7,4 +7,6 @@
 # Issues
 * Sim support
 * Certificates and detection
-* sfaety-net detection
+* safety-net detection
+
+# Helping hands welcome - message me bhasker@unixindia.com
